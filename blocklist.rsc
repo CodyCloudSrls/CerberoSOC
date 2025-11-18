@@ -2,4 +2,5 @@
 :do {/ip firewall address-list
 :do {add address=142.93.221.110 list=codycloud comment=SSH timeout=23h} on-error={}
 :do {add address=171.231.194.157 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=27.79.4.203 list=codycloud comment=SSH timeout=23h} on-error={}
 }
