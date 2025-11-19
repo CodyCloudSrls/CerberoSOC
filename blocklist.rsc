@@ -12,4 +12,17 @@
 :do {add address=204.76.203.219 list=codycloud comment=Scan timeout=23h} on-error={}
 :do {add address=2.58.84.67 list=codycloud comment=FTP timeout=23h} on-error={}
 :do {add address=192.161.163.11 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=173.249.63.116 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=170.64.187.110 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=209.38.87.227 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=64.225.64.131 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=116.110.150.181 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=116.110.156.28 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=167.71.77.17 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=139.19.117.130 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=170.64.176.217 list=codycloud comment=SSH timeout=23h} on-error={}
+:do {add address=124.198.132.121 list=codycloud comment=FTP timeout=23h} on-error={}
+:do {add address=170.64.176.217 list=codycloud comment=Scan timeout=23h} on-error={}
+:do {add address=103.153.79.233 list=codycloud comment=Scan timeout=23h} on-error={}
+:do {add address=164.92.250.44 list=codycloud comment=Scan timeout=23h} on-error={}
 }
