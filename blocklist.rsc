@@ -11,4 +11,5 @@
 :do {add address=134.199.172.103 list=codycloud comment=SSH timeout=23h} on-error={}
 :do {add address=204.76.203.219 list=codycloud comment=Scan timeout=23h} on-error={}
 :do {add address=2.58.84.67 list=codycloud comment=FTP timeout=23h} on-error={}
+:do {add address=192.161.163.11 list=codycloud comment=SSH timeout=23h} on-error={}
 }
