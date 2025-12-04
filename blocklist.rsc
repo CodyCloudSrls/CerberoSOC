@@ -176,4 +176,5 @@
 :do {add address=123.253.22.45 list=codycloud comment=Scan} on-error={}
 :do {add address=45.226.112.204 list=codycloud comment=Scan} on-error={}
 :do {add address=185.12.59.118 list=codycloud comment=Scan} on-error={}
+:do {add address=192.166.82.150 list=codycloud comment=Scan} on-error={}
 }
