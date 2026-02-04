@@ -984,4 +984,5 @@
 :do {add address=185.208.159.46 list=codycloud comment=SSH} on-error={}
 :do {add address=186.233.118.22 list=codycloud comment=SSH} on-error={}
 :do {add address=47.246.2.165 list=codycloud comment=SSH} on-error={}
+:do {add address=186.39.21.14 list=codycloud comment=SSH} on-error={}
 }
