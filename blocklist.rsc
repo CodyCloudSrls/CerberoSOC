@@ -2020,4 +2020,5 @@
 :do {add address=209.38.26.13 list=codycloud comment=SSH} on-error={}
 :do {add address=114.32.89.72 list=codycloud comment=SSH} on-error={}
 :do {add address=209.38.227.138 list=codycloud comment=SSH} on-error={}
+:do {add address=170.64.228.252 list=codycloud comment=SSH} on-error={}
 }
