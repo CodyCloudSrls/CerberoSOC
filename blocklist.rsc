@@ -3000,4 +3000,5 @@
 :do {add address=185.139.230.70 list=codycloud comment=Scan} on-error={}
 :do {add address=2.55.85.4 list=codycloud comment=SSH} on-error={}
 :do {add address=95.35.26.164 list=codycloud comment=SSH} on-error={}
+:do {add address=93.172.170.7 list=codycloud comment=SSH} on-error={}
 }
